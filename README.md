@@ -31,7 +31,7 @@
 
 ### Architecture
 
-<img align="center" src="https://user-images.githubusercontent.com/61655919/94439775-726b9800-01be-11eb-9109-60c9a1c91d42.png" height/>
+<img align="center" src="https://user-images.githubusercontent.com/61655919/94439775-726b9800-01be-11eb-9109-60c9a1c91d42.png"/>
 
 ### Feature Extractor
 
@@ -39,7 +39,7 @@
 
 ### Home tab
 
-![Screenshot (168)](https://user-images.githubusercontent.com/61655919/94442346-7947da00-01c1-11eb-9184-4cf9b0fab80e.png)
+<img src="https://user-images.githubusercontent.com/61655919/94442346-7947da00-01c1-11eb-9184-4cf9b0fab80e.png" height=551 width=825)
 
 ### Giving "google.com" as input and pressing Enter key
 
