@@ -39,7 +39,7 @@
 
 ### Home tab
 
-<img src="https://user-images.githubusercontent.com/61655919/94442346-7947da00-01c1-11eb-9184-4cf9b0fab80e.png" height=551 width=825)
+<img src="https://user-images.githubusercontent.com/61655919/94442346-7947da00-01c1-11eb-9184-4cf9b0fab80e.png" height=551 width=825/>
 
 ### Giving "google.com" as input and pressing Enter key
 
