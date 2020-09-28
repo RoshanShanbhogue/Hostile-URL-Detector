@@ -31,6 +31,7 @@
   > * **Only the GUI** part has been uploaded which makes the application non functional, so, only the GUI will execute.
   > * Install sklearn, tkinter, themedtk and any other requirement console asks.
   > * Install **Audiowide** font.
+  > * **Updates** include the main functionalities of the project.
   
 ## Screenshots 
 
