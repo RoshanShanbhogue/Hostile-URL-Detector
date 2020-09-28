@@ -68,7 +68,8 @@
 
 ### History tab
 
-![Screenshot (187)](https://user-images.githubusercontent.com/61655919/94443713-1f481400-01c3-11eb-8811-1fee8d6682dd.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/61655919/94471488-e6219b00-01e6-11eb-8809-95071315f600.png)
+
 
 
 
