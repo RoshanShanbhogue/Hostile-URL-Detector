@@ -29,10 +29,10 @@
   
 ## Screenshots 
 * **Architecture**
-![Untitled Diagram (4) (1)](https://user-images.githubusercontent.com/61655919/94439775-726b9800-01be-11eb-9109-60c9a1c91d42.png)
+![Architecture](https://user-images.githubusercontent.com/61655919/94439775-726b9800-01be-11eb-9109-60c9a1c91d42.png)
 
 * **Feature Extractor**
-![Untitled Diagram (6)](https://user-images.githubusercontent.com/61655919/94439937-ad6dcb80-01be-11eb-8a8d-331837e3ae2f.png)
+![Feature Extractor](https://user-images.githubusercontent.com/61655919/94439937-ad6dcb80-01be-11eb-8a8d-331837e3ae2f.png)
 
 * **Home tab**
 ![Screenshot (168)](https://user-images.githubusercontent.com/61655919/94442346-7947da00-01c1-11eb-9184-4cf9b0fab80e.png)
