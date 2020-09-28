@@ -27,7 +27,10 @@
   * Provides **tkinter** to make simple GUI.
   * Easy to code and simple to understand data structures and computing logic. 
   
-  > As of now, I have decided to upload only the GUI part as the codebase wasn't designed using github and exceeds it's size capacities.
+> ### NOTE:
+  > * **Only the GUI** part has been uploaded which makes the application non functional, so, only the GUI will execute.
+  > * Install sklearn, tkinter, themedtk and any other requirement console asks.
+  > * Install **Audiowide** font.
   
 ## Screenshots 
 
