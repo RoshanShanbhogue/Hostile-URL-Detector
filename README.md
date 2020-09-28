@@ -1,6 +1,4 @@
-# Hostile-URL-Detector (HUD)
-
-* This is a multi-staged URL analysis tool to provide useful insights about an input URL.
+# Hostile-URL-Detector (HUD): a multi-staged URL analysis tool to provide useful insights about an input URL
 
 * With the massive strides in digital technology and popularization of internet, data
   security and privacy comes under an alarming risk of being violated. Several attacks like
