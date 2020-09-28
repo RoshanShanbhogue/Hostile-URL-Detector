@@ -27,6 +27,7 @@
   * Provides **tkinter** to make simple GUI.
   * Easy to code and simple to understand data structures and computing logic. 
   
+  > ### NOTE:
   > 1. As of now, I have decided to upload only the GUI part as the codebase wasn't designed using github and exceeds it's size capacities.
   > 2. Install **Audiowide** font.
   
