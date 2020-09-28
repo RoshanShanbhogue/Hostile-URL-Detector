@@ -31,7 +31,7 @@
 
 * **###Architecture**
 
-<img src="https://user-images.githubusercontent.com/61655919/94439775-726b9800-01be-11eb-9109-60c9a1c91d42.png" />
+<img align="center" src="https://user-images.githubusercontent.com/61655919/94439775-726b9800-01be-11eb-9109-60c9a1c91d42.png" />
 
 * **###Feature Extractor**
 
