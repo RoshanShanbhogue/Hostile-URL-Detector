@@ -62,7 +62,7 @@
 
 ### History tab
 
-<img src="https://user-images.githubusercontent.com/61655919/94443713-1f481400-01c3-11eb-8811-1fee8d6682dd.png)" height="551" width="825"/>
+<img src="https://user-images.githubusercontent.com/61655919/94443713-1f481400-01c3-11eb-8811-1fee8d6682dd.png" height="551" width="825"/>
 
 
 
