@@ -29,38 +29,38 @@
   
 ## Screenshots 
 
-* **###Architecture**
+### Architecture
 
 ![Architecture](https://user-images.githubusercontent.com/61655919/94439775-726b9800-01be-11eb-9109-60c9a1c91d42.png)
 
-* **###Feature Extractor**
+### Feature Extractor
 
 ![Feature Extractor](https://user-images.githubusercontent.com/61655919/94439937-ad6dcb80-01be-11eb-8a8d-331837e3ae2f.png)
 
-* **###Home tab**
+### Home tab
 ![Screenshot (188)](https://user-images.githubusercontent.com/61655919/94446337-1e64b180-01c6-11eb-8aca-4b07fb4d4f76.png)
 
-* **###Giving "google.com" as input and pressing Enter key**
+### Giving "google.com" as input and pressing Enter key
 
 ![Screenshot (183)](https://user-images.githubusercontent.com/61655919/94443970-6fbf7180-01c3-11eb-992a-d296318dd757.png)
 
-* **###Giving adult URL as input (Stage-1)**
+### Giving adult URL as input (Stage-1)
 
 ![Screenshot (184)](https://user-images.githubusercontent.com/61655919/94442787-fd9a5d00-01c1-11eb-8aa8-bef40a54e0dc.png)
 
-* **###Giving adult URL as input (Stage-2)**
+### Giving adult URL as input (Stage-2)
 
 ![Screenshot (185)](https://user-images.githubusercontent.com/61655919/94442918-26baed80-01c2-11eb-8c4b-3895243e8952.png)
 
-* **###Performance display tab (Modelwise predictive accuracy for each URL type)**
+### Performance display tab (Modelwise predictive accuracy for each URL type)
 
 ![Screenshot (186)](https://user-images.githubusercontent.com/61655919/94443204-844f3a00-01c2-11eb-8b2c-77a33c46ff84.png)
 
-* **###Dependency checker tab**
+### Dependency checker tab
 
 ![Screenshot (187)](https://user-images.githubusercontent.com/61655919/94443660-0dff0780-01c3-11eb-9fdf-04e4221374af.png)
 
-* **###History tab**
+### History tab
 
 <img src="https://user-images.githubusercontent.com/61655919/94443713-1f481400-01c3-11eb-8811-1fee8d6682dd.png)" height=551 width=825/>
 
