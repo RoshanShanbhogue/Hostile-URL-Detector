@@ -15,7 +15,7 @@
   on which we perform lexical feature extraction to gain more information about the link (to
   extract literary features) and various novel features which we have proposed are also extracted.
   
-* In total, we extracted 62 features and gained the highest predictive accuracy of 99.54% using random forest
+* In total, we extracted 62 features and gained the highest predictive **accuracy of 99.54%** using random forest
   classifier. Other algorithms used were Gaussian Naive Bayes, Decision Tree Classifier, Multi Layer Perceptron Classifier and K-Nearest Neighbors.
 
 ## About the code
@@ -29,7 +29,6 @@
   > * **Only the GUI** part has been uploaded which makes the application non functional, so, only the GUI will execute.
   > * Install sklearn, tkinter, themedtk and any other requirement console asks.
   > * Install **Audiowide** font.
-  > * **Updates** include the main functionalities of the project.
   
 ## Screenshots 
 
