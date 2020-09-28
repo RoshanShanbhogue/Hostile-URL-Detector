@@ -28,6 +28,7 @@
   * Easy to code and simple to understand data structures and computing logic.
   
 ## Screenshots 
+
 * **Architecture**
 ![Architecture](https://user-images.githubusercontent.com/61655919/94439775-726b9800-01be-11eb-9109-60c9a1c91d42.png)
 
@@ -38,7 +39,7 @@
 ![Screenshot (168)](https://user-images.githubusercontent.com/61655919/94442346-7947da00-01c1-11eb-9184-4cf9b0fab80e.png)
 
 * **Giving "google.com" as input and pressing Enter key**
-![Screenshot (183)](https://user-images.githubusercontent.com/61655919/94442563-bdd37580-01c1-11eb-8205-413b4353c43c.png)
+![Screenshot (183)](https://user-images.githubusercontent.com/61655919/94443970-6fbf7180-01c3-11eb-992a-d296318dd757.png)
 
 * **Giving adult URL as input (Stage-1)**
 ![Screenshot (184)](https://user-images.githubusercontent.com/61655919/94442787-fd9a5d00-01c1-11eb-8aa8-bef40a54e0dc.png)
